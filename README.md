@@ -1,6 +1,6 @@
 # HZC
 
-Esee projeto teve como objetivo criar uma landing page responsiva com grande foco em aprender Grid e Flexbox.
+Esse projeto teve como objetivo criar uma landing page responsiva com grande foco em aprender Grid e Flexbox.
 
 ## Grid
 O Grid é uma ferramenta poderosa para criar layouts complexos de forma organizada e estruturada. Ele permite dividir a página em linhas e colunas, permitindo que os elementos dentro dessas linhas e colunas sejam posicionados de forma precisa.
