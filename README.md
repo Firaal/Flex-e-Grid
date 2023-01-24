@@ -1,8 +1,23 @@
-# Guia de estilos
+# HZC
 
-Toda a estilização que será usada no projeto dentro do figma.
+Esee projeto teve como objetivo criar uma landing page responsiva com grande foco em aprender Grid e Flexbox.
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+## Grid
+O Grid é uma ferramenta poderosa para criar layouts complexos de forma organizada e estruturada. Ele permite dividir a página em linhas e colunas, permitindo que os elementos dentro dessas linhas e colunas sejam posicionados de forma precisa.
+
+## Flexbox
+O Flexbox é outra ferramenta poderosa para criar layouts responsivos. Ele permite que os elementos dentro de um container sejam alinhados, distribuídos e dimensionados de forma flexível.
+
+# Benefícios
+
+<ul>
+<li>Criação de layouts complexos de forma organizada e estruturada</li>
+<li>Flexibilidade para adaptação em diferentes tamanhos de tela</li>
+<li>Melhor performance em comparação com outras técnicas de layout</li>
+</ul>
+
+## Considerações Finais
+Este projeto é apenas um exemplo de como utilizar Grid e Flexbox para criar uma landing page responsiva. É possível utilizar essas ferramentas de forma combinada ou individual para atender às necessidades específicas de outros projetos.
 
 ## Fonte
 
