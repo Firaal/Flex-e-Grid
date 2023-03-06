@@ -2,7 +2,10 @@
     font-family: 'icones';
     src: url(../font/icones.ttf);
 }
-
+html
+{
+    scroll-behavior: smooth;
+}
 body
 {
     background-color: #1D232A;
